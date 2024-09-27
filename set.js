@@ -21,7 +21,7 @@ module.exports = {
     A_REACT: process.env.AUTO_REACTION || 'on',
     AUTO_BLOCK: process.env.BLOCK_ALL || 'off',
     URL: process.env.BOT_MENU_LINKS || 'https://static.animecorner.me/2023/08/op2.jpg',
-    MODE: process.env.BOT_MODE || "private",
+    MODE: process.env.BOT_MODE || "public",
     PM_PERMIT: process.env.PM_PERMIT || 'on',
     HEROKU_APP_NAME: process.env.HEROKU_APP_NAME,
     HEROKU_API_KEY: process.env.HEROKU_API_KEY,
